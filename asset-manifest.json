@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a17f1d9b.css",
+    "main.js": "/static/js/main.637505ff.js",
+    "static/media/IntroImg.png": "/static/media/IntroImg.8715b3818b603af3276a.png",
+    "static/media/logos.svg": "/static/media/logos.fba441714722ae3dbafdb51615b26027.svg",
+    "static/media/one.png": "/static/media/one.632adb111408e5e75b15.png",
+    "static/media/tf-img.png": "/static/media/tf-img.6401946463dfcc9faaaa.png",
+    "static/media/Contact.svg": "/static/media/Contact.2fcb82771f14aac39bfcb2d41e7569a1.svg",
+    "static/media/third.png": "/static/media/third.65a8d5edd8db8d3afd75.png",
+    "static/media/second.png": "/static/media/second.28d2ceef313ad611739f.png",
+    "static/media/fourth.png": "/static/media/fourth.9299caf4c8632f86815a.png",
+    "static/media/cart-bg.png": "/static/media/cart-bg.0f4de6f79f2ac89b126a.png",
+    "static/media/first.png": "/static/media/first.5446368e34e3de03db33.png",
+    "static/media/home.svg": "/static/media/home.939aed6a642d410fad1a0446307d7920.svg",
+    "static/media/AppStore.svg": "/static/media/AppStore.9634a95ed08c51c0d0c8fa18b3f19937.svg",
+    "static/media/stars.svg": "/static/media/stars.f87fb1c4e8ce5355a0afe07673da46d4.svg",
+    "static/media/deliveryCar.svg": "/static/media/deliveryCar.28b2ea80d7a3f3a573840021020d0f54.svg",
+    "static/media/ceil.svg": "/static/media/ceil.430008710c84cef3d8c981c21f14f34c.svg",
+    "static/media/music.svg": "/static/media/music.c8e32b3aac20034c7ed8d12fd2448619.svg",
+    "static/media/Wallet.svg": "/static/media/Wallet.e454f6cd2433167e82822e9ab7edf53c.svg",
+    "static/media/heart-outline.svg": "/static/media/heart-outline.052de39ceb27a67e3a64effc0978ad0c.svg",
+    "static/media/message.svg": "/static/media/message.a33f0e167bb33101daedcd6ee982f86f.svg",
+    "static/media/plus.svg": "/static/media/plus.16bf9af038c2a53178f02cd4526d59b2.svg",
+    "static/media/facebook.svg": "/static/media/facebook.60c63e7bd8ff01c3bd9982203b17b4a1.svg",
+    "static/media/contactbg.svg": "/static/media/contactbg.643cb4623d13a1d3d186511ae155a53f.svg",
+    "index.html": "/index.html",
+    "main.a17f1d9b.css.map": "/static/css/main.a17f1d9b.css.map",
+    "main.637505ff.js.map": "/static/js/main.637505ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17f1d9b.css",
+    "static/js/main.637505ff.js"
+  ]
+}
